@@ -1,0 +1,25 @@
+A	int	
+A	int	
+F	val	
+T	F	
+E	T	
+F	val	
+T	F	
+E	E	+	T	
+F	val	
+T	F	
+E	E	+	T	
+F	(	E	)	
+T	F	
+E	T	
+A	int	
+F	val	
+T	F	
+E	T	
+D	id	=	E	;	
+B	A	D	
+D	id	=	E	;	B	
+B	A	D	
+H	A	f	(	)	{	B	}	
+B	H	
+S	B	

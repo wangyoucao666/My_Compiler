@@ -1,0 +1,32 @@
+文件结构：
+
+语法分析.cpp # 源码
+
+语法分析 	    # VS2017项目
+
+SyntaxTree 
+	/ cmd.bat 		# 双击运行生成语法树
+	/ generate_tree.py	# 生成语法树结构
+	/ tree_node_leaf.txt	# 语法树结构
+	/ tree.png		# 语法树
+
+lr_result
+	/ 生成action表与goto表.txt
+	/ 生成FIRST集合.txt
+	/ 生成规约过程.txt
+	/ 生成规约项目集族.txt
+
+tokens.txt
+	/ 同实验一词法分析output.txt一致
+
+语法分析文法.txt
+	#语法分析文法格式：
+	#B->CeD在txt中表示为B C e D，右边不能有任何其他符号，
+	#每一行代表一个产生式。如果有多余的空格，程序会把空格当成终结符。
+	#结尾可以有换行回车，不影响结果。
+
+运行：	① VS2017 windows环境
+	② 打开\语法分析\语法分析.sln文件
+	② 点击绿色三角运行（不需要换文件路径，已设置相对路径）
+生成语法树：
+	① 双击cmd.bat（需要安装python3和可视化graphviz依赖）

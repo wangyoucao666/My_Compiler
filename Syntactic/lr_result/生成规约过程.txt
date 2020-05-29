@@ -1,0 +1,94 @@
+A	int	
+F	id	
+T	F	
+E	T	
+F	id	
+T	F	
+E	T	
+N	E	>	E	
+M	N	
+C	M	
+F	id	
+T	F	
+E	T	
+B	return	E	;	
+F	id	
+T	F	
+E	T	
+B	return	E	;	
+G	else	{	B	}	
+B	if	(	C	)	{	B	}	G	
+A	int	
+A	int	
+F	val	
+T	F	
+E	T	
+F	val	
+T	F	
+E	T	
+F	id	
+T	F	
+E	T	
+F	id	
+T	F	
+E	T	
+N	E	>	E	
+M	N	
+C	M	
+A	int	
+F	val	
+T	F	
+E	T	
+D	id	=	E	;	
+B	A	D	
+F	id	
+T	F	
+E	T	
+F	id	
+T	F	
+E	T	
+N	E	==	E	
+M	N	
+C	M	
+F	val	
+T	F	
+E	T	
+D	id	=	E	;	
+B	D	
+F	val	
+T	F	
+E	T	
+D	id	=	E	;	
+B	D	
+F	f	(	)	
+T	F	
+E	T	
+A	char	
+F	'c'	
+T	F	
+E	T	
+A	int	
+A	int	
+F	id	
+T	F	
+E	T	
+B	return	E	;	
+D	id	;	B	
+B	A	D	
+D	a	;	B	
+B	A	D	
+D	id	=	E	;	B	
+B	A	D	
+D	id	=	E	;	B	
+B	D	
+G	else	{	B	}	B	
+B	if	(	C	)	{	B	}	G	
+B	while	(	C	)	{	B	}	B	
+D	id	=	E	;	B	
+D	id	=	E	,	D	
+B	A	D	
+H	A	f	(	)	{	B	}	
+B	H	
+H	A	f	(	)	{	B	}	B	
+B	H	
+S	B	

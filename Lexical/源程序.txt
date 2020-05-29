@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int Max(int a, int b) {
+	if (a > b){ return a;}
+	else { return b; }
+}
+
+int main() {
+	int a= -10, b = 15;
+	while (a > b) {
+		int a = 15;
+	}
+	if(a == b)
+	{
+		a= 1 ;
+	}
+	else
+	{
+		a = 2 ;
+	}
+	a = Max(a,b);
+ 	char c = 'c';
+	return a;
+}
