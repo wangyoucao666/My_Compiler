@@ -1,1 +1,0 @@
-int	f	(	)	{	if	(	id	>	id	)	{	return	id	;	}	else	{	return	id	;	}	}	int	f	(	)	{	int	id	=	val	,	id	=	val	;	while	(	id	>	id	)	{	int	id	=	val	;	}	if	(	id	==	id	)	{	id	=	val	;	}	else	{	id	=	val	;	}	id	=	f	(	)	;	char	id	=	'c'	;	return	id	;	}	
