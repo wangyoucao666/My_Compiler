@@ -1,0 +1,63 @@
+S B
+
+B H B
+B H
+B L B
+B L
+B R B
+B R
+B I B
+B I
+B W B
+B W
+B D B
+B D
+
+R return E ;
+
+W while K ( C ) { K B }
+
+I if ( C ) { K B }
+I if ( C ) { K B } Q else { K B }
+
+H A f ( ) { B }
+H f ( ) ;
+
+L A D
+A bool
+A int
+A char
+A float
+
+D a ;
+D a , D
+D id ;
+D id , D
+D id = E ;
+D id = E , D
+
+E E + T
+E E - T
+E T
+
+T T * F
+T T / F
+T F
+
+F ( E )
+F 'c'
+F id
+F val
+F f ( )
+
+C M && K M
+C M || K M
+M ! M
+C M
+M E == E
+M E < E
+M E > E
+M E != E
+
+K m
+Q n

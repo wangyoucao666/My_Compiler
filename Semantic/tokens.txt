@@ -1,0 +1,1 @@
+int	f	main	(	)	{	int	id	a	=	(	val	int	+	val	int	+	val	int	)	;	int	id	b	=	val	int	;	}	

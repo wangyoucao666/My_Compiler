@@ -1,0 +1,1 @@
+int	f	(	)	{	int	id	l	=	val	0	,	id	r	=	id	x	,	id	ans	=	val	-1	;	while	(	id	l	<	id	r	||	id	l	==	id	r	)	{	int	id	mid	=	id	l	+	(	id	r	-	id	l	)	/	val	2	;	int	id	temp	=	id	mid	*	id	id	;	if	(	id	temp	<	id	x	||	id	temp	==	id	x	)	{	id	ans	=	id	mid	;	id	l	=	id	mid	+	val	1	;	}	else	{	id	r	=	id	mid	-	val	1	;	}	}	return	id	ans	;	}	
